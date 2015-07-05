@@ -13,9 +13,13 @@ namespace Assignmet.Segment4
         /// <returns></returns>
         public List<string> Sort(List<string> theList, char theChar)
         {
-            List<string> filtered = theList.Where(a => a.ToLower().StartsWith(theChar.ToString().ToLower())).ToList();
+            if (theList.Count > 0)
+            {
+                List<string> filtered = theList.Where(a => a.ToLower().StartsWith(theChar.ToString().ToLower())).ToList();
 
-            return filtered;
+                return filtered;
+            }
+            return null;
         }
     }
 }
