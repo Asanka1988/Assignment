@@ -1,0 +1,18 @@
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\bin\Debug\Queens_University.exe.config
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\bin\Debug\Queens_University.exe
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\bin\Debug\Queens_University.pdb
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.Form1.resources
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.Properties.Resources.resources
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.csproj.GenerateResource.Cache
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.exe
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.pdb
+c:\users\pathirana\documents\visual studio 2012\Projects\Queens_University\Queens_University\obj\Debug\Queens_University.csprojResolveAssemblyReference.cache
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\bin\Debug\Queens_University.exe.config
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.exe
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.pdb
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\bin\Debug\Queens_University.exe
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\bin\Debug\Queens_University.pdb
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.csprojResolveAssemblyReference.cache
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.Form1.resources
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.Properties.Resources.resources
+C:\Users\pathirana\Desktop\Queens_University\Queens_University\obj\Debug\Queens_University.csproj.GenerateResource.Cache
