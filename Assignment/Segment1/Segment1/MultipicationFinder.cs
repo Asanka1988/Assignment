@@ -4,7 +4,12 @@ namespace Assignmet.Segment1
 {
     class MultipicationFinder
     {
-      
+      /// <summary>
+      /// Write 1- 100 Nmbers
+        /// Replace *3 multiples  with : Support
+        /// Repplavce *5 multiples  with : Training
+        /// Relace both *3 & *5 multiples : SupportTraining 
+      /// </summary>
         public void FindDivider()
         {
             PrintOutputToConsole objPrintOutputToConsole = new PrintOutputToConsole();

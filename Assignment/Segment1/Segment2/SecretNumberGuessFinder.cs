@@ -5,6 +5,10 @@ namespace Assignmet.Segment2
 {
     public class SecretNumberGuessFinder
     {
+        /// <summary>
+        /// Metod runs until user Enter correct Secret Number : 42
+        /// if user enter 42 --> Print Corrent and close the Aplication
+        /// </summary>
         public void GessSecretNumber()
         {
             PrintOutputToConsole objPrintOutputToConsole = new PrintOutputToConsole();
