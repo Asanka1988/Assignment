@@ -1,0 +1,6 @@
+C:\Users\pathirana\Desktop\Assignment\Segment1\obj\Debug\Assignmet.csprojResolveAssemblyReference.cache
+C:\Users\pathirana\Desktop\Assignment\Segment1\bin\Debug\Assignment.exe.config
+C:\Users\pathirana\Desktop\Assignment\Segment1\bin\Debug\Assignment.exe
+C:\Users\pathirana\Desktop\Assignment\Segment1\bin\Debug\Assignment.pdb
+C:\Users\pathirana\Desktop\Assignment\Segment1\obj\Debug\Assignment.exe
+C:\Users\pathirana\Desktop\Assignment\Segment1\obj\Debug\Assignment.pdb

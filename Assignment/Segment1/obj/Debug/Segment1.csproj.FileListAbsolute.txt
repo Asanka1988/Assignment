@@ -1,0 +1,9 @@
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\bin\Debug\Segment1.exe.config
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\bin\Debug\Segment1.exe
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\bin\Debug\Segment1.pdb
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\obj\Debug\Segment1.exe
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\obj\Debug\Segment1.pdb
+C:\Users\pathirana\documents\visual studio 2012\Projects\Segment1\Segment1\obj\Debug\Segment1.csprojResolveAssemblyReference.cache
+C:\Users\pathirana\Desktop\Assignment\Segment1\bin\Debug\Segment1.exe.config
+C:\Users\pathirana\Desktop\Assignment\Segment1\obj\Debug\Segment1.exe
+C:\Users\pathirana\Desktop\Assignment\Segment1\obj\Debug\Segment1.pdb
